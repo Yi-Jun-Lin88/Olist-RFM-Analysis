@@ -34,6 +34,6 @@
 │   ├── console_2.sql
 │   └── Brazilian E-Commerce Public Dataset.ipynb
 ├── data/                                                 # 數據
-│   ├── Click Here                                        # 原始數據
+│   ├── READ.md                                           # 原始數據
 │   └── olist_customers_orders_items_dataset_new.csv      # MySQL 撈出的寬表數據
 └── README.md
